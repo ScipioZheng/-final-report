@@ -1,4 +1,3 @@
-#PHBS-BlockChain-2018
 # Digital currency and modern banking system
 ##The question
 
@@ -45,3 +44,19 @@ The current payment system is a centralized management mechanism. Individuals an
 The price of enjoying the government safety net is to be supervised. The regulation brings the access restrictions of the banking industry, and gives the institutions holding the banking license certain pricing rights for monopoly products and services. Under such a framework, the banking industry has economies of scale and scope, that is, the larger the scale and the more diversified the business, the more competitive it is, and the more important it is to enjoy the government guarantee after becoming a systemic institution that is “big but not down”. Implied public resource subsidies. Financial institutions are pursuing mixed operations and growth, making public banks and casino banks linked, which is the source of financial instability. Therefore, countries are now studying the possibility of applying blockchain technology in the financial field.
 
 This paper mainly analyzes the function of the blockchain from the perspective of economics, and summarizes the “Token paradigm” adopted by the current mainstream blockchain system from the perspectives of Token, smart contract and consensus algorithm, and gives economic explanation. Token is a state variable defined within a blockchain and has several currency-like characteristics. Token transactions within the blockchain do not rely on trusted third-party organizations, but such a trust-free environment within the blockchain cannot extend beyond the blockchain. Once the native scenes such as Token transactions are removed, the blockchain must solve the real-life trust problem and often need to introduce a trusted central mechanism outside the blockchain to assist.
+
+#Reference:
+
+1 Amsden, Ryan, and Denis Schweizer, 2018, "Are Blockchain Crowdsales the New 'Gold Rush'? Success Determinants of Initial Coin Offerings"
+
+2 Biais, Bruno, Christophe Bisière, Matthieu Bouvard, and Catherine Casamatta, 2018, “The Blockchain Folk Theorem”, Working Papers No 17-817, Toulouse School of Economics
+
+3 Benedetti, Hugo, and Leonard Kostovetsky, 2018, “Digital Tulips? Returns to Investors in Initial Coin Offerings”
+
+4 Buterin, Vitalik, 2013, “A Next-Generation Smart Contract and Decentralized Application Platform”.
+
+5 Chod, Jiri, and Evgeny Lyandres, 2018, “A Theory of ICOs: Diversification, Agency, and Information Asymmetry”.
+
+6 Cong, Lin William, Ye Li, and Neng Wang, "Tokeconomics: Dynamic Adoption and Valuation".
+
+7 Goldman Sachs, 2016, “Blockchain: Putting Theory into Practice”.
